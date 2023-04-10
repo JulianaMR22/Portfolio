@@ -342,7 +342,7 @@
 
   .face {
     width: 61%;
-    height: 40%;
+    height: 251px;
     top: 60%;
     right: 20%;
   }
@@ -389,7 +389,7 @@
 
   .computer {
     width: 56%;
-    height: 40%;
+    height: 243px;
     top: 53%;
     left: -3%;
   }
@@ -451,17 +451,12 @@
     top: 30%;
   }
 
-  .container_projects {
-    top: 150%;
-    left: 2%;
-  }
-
   .title_projects {
-    font-size: 42px;
+    font-size: 44px;
   }
 
   .image_projects {
-    width: 24%;
+    width: 28%;
   }
 
   .cards {
