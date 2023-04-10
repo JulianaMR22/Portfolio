@@ -342,7 +342,8 @@
   .face {
     width: 61%;
     height: 243px;
-    top: 60%;
+    top: auto;
+    bottom: 0;
     right: 20%;
   }
 
