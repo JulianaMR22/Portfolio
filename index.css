@@ -291,6 +291,31 @@
   box-shadow: 0px 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
 
+.task {
+  background-image: url(./images/littletasks.png);
+  background-size: cover;
+}
+.store {
+  background-image: url(./images/onlinestore.png);
+  background-size: cover;
+}
+.grit {
+  background-image: url(./images/gritbills.png);
+  background-size: cover;
+}
+.maths {
+  background-image: url(./images/kawaii.png);
+  background-size: cover;
+}
+.max {
+  background-image: url(./images/maxstore.png);
+  background-size: cover;
+}
+.user {
+  background-image: url(./images/newuser.png);
+  background-size: cover;
+}
+
 .cards_button {
   background: linear-gradient(90deg, #ff9ff3 0%, #d384e8 53.12%, #ca91ff 100%);
   border-radius: 5px;
@@ -413,37 +438,36 @@
   }
 
   .technologies_html {
-    width: 14%;
-    height: 41%;
+    width: 57px;
+    height: 63px;
     left: 4%;
     top: 28%;
   }
 
   .technologies_css {
-    width: 14%;
-    height: 41%;
+    width: 57px;
+    height: 63px;
     left: 23%;
     top: 29%;
   }
 
   .technologies_js {
-    width: 17%;
-    height: 42%;
+    width: 69px;
+    height: 64px;
     left: 42%;
     top: 28%;
   }
 
   .technologies_git {
-    width: 20%;
-    height: 49%;
+    width: 82px;
+    height: 76px;
     left: 61%;
     top: 25%;
   }
 
   .technologies_react {
-    position: absolute;
-    width: 17%;
-    height: 40%;
+    width: 69px;
+    height: 62px;
     left: 82%;
     top: 30%;
   }
