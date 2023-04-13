@@ -18,6 +18,33 @@
   width: 90%;
 }
 
+.github {
+  position: absolute;
+  top: 5%;
+  left: 7%;
+  width: 40px;
+}
+
+.linkedln {
+  position: absolute;
+  top: 5%;
+  left: 15%;
+  width: 40px;
+}
+.twitter {
+  position: absolute;
+  top: 5%;
+  left: 22%;
+  width: 40px;
+}
+
+.scroll {
+  position: absolute;
+  width: 44px;
+  right: 39%;
+  top: 80%;
+}
+
 .container_title {
   display: flex;
   flex-direction: column;
@@ -320,14 +347,18 @@
   background: linear-gradient(90deg, #ff9ff3 0%, #d384e8 53.12%, #ca91ff 100%);
   border-radius: 5px;
   width: 180px;
-  font-size: 15px;
   top: 93%;
   left: 35%;
   height: 41px;
   position: absolute;
-  color: #ffffff;
   border: none;
   cursor: pointer;
+}
+
+.link_button {
+  color: #ffffff;
+  font-size: 15px;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 640px) {
@@ -341,6 +372,27 @@
     left: 8%;
     top: 13%;
   }
+
+  .linkedln {
+    top: 5%;
+    left: 21%;
+    width: 29px;
+  }
+
+  .github {
+    width: 29px;
+  }
+
+  .twitter {
+    top: 5%;
+    left: 34%;
+    width: 29px;
+  }
+
+  .scroll {
+    display: none;
+  }
+
   .greeting {
     font-size: 19px;
   }
@@ -482,7 +534,7 @@
 
   .cards {
     width: 84%;
-    height: 221px;
+    height: 170px;
     margin: 20px;
   }
 
