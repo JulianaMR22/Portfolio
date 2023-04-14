@@ -158,6 +158,11 @@
   border-radius: 50px;
 }
 
+.icon_contact {
+  position: absolute;
+  left: 15px;
+}
+
 .personal_description {
   position: absolute;
   width: 596px;
@@ -241,6 +246,7 @@
   height: 49px;
   border: none;
   cursor: pointer;
+  padding-left: 17px;
   border-radius: 5px;
   font-size: 20px;
   color: #ffffff;
@@ -318,6 +324,10 @@
   box-shadow: 0px 10px 10px 5px rgba(0, 0, 0, 0.2);
 }
 
+.cards:hover {
+  transform: scale(1.1);
+}
+
 .task {
   background-image: url(./images/littletasks.png);
   background-size: cover;
@@ -353,6 +363,15 @@
   position: absolute;
   border: none;
   cursor: pointer;
+}
+
+.icon_cards {
+  display: flex;
+  align-items: center;
+  left: 13px;
+  color: #ffff;
+  height: inherit;
+  position: absolute;
 }
 
 .link_button {
