@@ -502,6 +502,10 @@
     top: 80%;
   }
 
+  .icon_contact{
+    left: 10px;
+  }
+
   .button_contact {
     width: 175px;
     height: 45px;
