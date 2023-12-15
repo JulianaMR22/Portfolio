@@ -539,38 +539,50 @@
   }
 
   .technologies_html {
-    width: 57px;
-    height: 63px;
+    width: 43px;
+    height: 50px;
     left: 4%;
     top: 28%;
   }
 
   .technologies_css {
-    width: 57px;
-    height: 63px;
-    left: 23%;
+    width: 43px;
+    height: 48px;
+    left: 16%;
     top: 29%;
   }
 
   .technologies_js {
-    width: 69px;
-    height: 64px;
-    left: 42%;
+    width: 54px;
+    height: 50px;
+    left: 28%;
     top: 28%;
   }
 
   .technologies_git {
-    width: 82px;
-    height: 76px;
-    left: 61%;
+    width: 63px;
+    height: 59px;
+    left: 41%;
     top: 25%;
   }
 
   .technologies_react {
-    width: 69px;
-    height: 62px;
-    left: 82%;
+    width: 55px;
+    height: 49px;
+    left: 56%;
     top: 30%;
+  }
+  .technologies_mui {
+    width: 52px;
+    height: 57px;
+    right: 18%;
+    top: 29%;
+  }
+  .technologies_tailwind {
+    width: 53px;
+    height: 38px;
+    right: 3%;
+    top: 36%;
   }
 
   .title_projects {
