@@ -199,36 +199,50 @@
   position: absolute;
   width: 70px;
   height: 73px;
-  left: 25%;
+  left: 16%;
   top: 28%;
 }
 .technologies_css {
   position: absolute;
   width: 70px;
   height: 73px;
-  left: 35%;
+  left: 26%;
   top: 28%;
 }
 .technologies_js {
   position: absolute;
   width: 85px;
   height: 79px;
-  left: 45%;
+  left: 36%;
   top: 27%;
 }
 .technologies_git {
   position: absolute;
   width: 99px;
   height: 90px;
-  left: 55%;
+  left: 46%;
   top: 24%;
 }
 .technologies_react {
   position: absolute;
   width: 87px;
   height: 77px;
-  left: 66%;
+  right: 36%;
   top: 29%;
+}
+.technologies_mui {
+  position: absolute;
+  width: 87px;
+  height: 85px;
+  right: 26%;
+  top: 29%;
+}
+.technologies_tailwind {
+  position: absolute;
+  width: 90px;
+  height: 65px;
+  right: 15%;
+  top: 36%;
 }
 
 .container_button {
@@ -336,8 +350,16 @@
   background-image: url(./images/onlinestore.png);
   background-size: cover;
 }
+.bills_system {
+  background-image: url(./images/billsSystem.png);
+  background-size: cover;
+}
 .grit {
   background-image: url(./images/gritbills.png);
+  background-size: cover;
+}
+.portfolio {
+  background-image: url(./images/portfolioJP.png);
   background-size: cover;
 }
 .maths {
@@ -502,7 +524,7 @@
     top: 80%;
   }
 
-  .icon_contact{
+  .icon_contact {
     left: 10px;
   }
 
