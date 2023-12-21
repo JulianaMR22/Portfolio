@@ -362,6 +362,10 @@
   background-image: url(./images/PortfolioJP.png);
   background-size: cover;
 }
+.rating {
+  background-image: url(./images/rating.png);
+  background-size: cover;
+}
 .maths {
   background-image: url(./images/kawaii.png);
   background-size: cover;
@@ -403,6 +407,7 @@
   align-items: center;
   color: #ffffff;
   font-size: 15px;
+  padding-left: 12px;
   text-decoration: none;
 }
 
