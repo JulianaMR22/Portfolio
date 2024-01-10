@@ -354,6 +354,15 @@
   background-image: url(./images/billsSystem.png);
   background-size: cover;
 }
+.advice {
+  background-image: url(./images/advice.png);
+  background-size: cover;
+}
+.intro {
+  background-image: url(./images/intro.png);
+  background-size: cover;
+}
+
 .grit {
   background-image: url(./images/gritbills.png);
   background-size: cover;
