@@ -346,6 +346,10 @@
   background-image: url(./images/littletasks.png);
   background-size: cover;
 }
+.ip {
+  background-image: url(./images/ip.png);
+  background-size: cover;
+}
 .store {
   background-image: url(./images/onlinestore.png);
   background-size: cover;
